@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-14T16:07:24.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="VAj7CP9iFNEt6s1dD2cJ" version="14.8.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-07-15T20:17:55.229Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="XaOR4aXWWas1NGuafSLu" version="14.8.6" type="github" pages="5">
   <diagram id="dLiCsf6XBlpKmU3ovjeW" name="Page-1">
-    <mxGraphModel dx="868" dy="460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="3472" dy="1840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,33 +10,14 @@
         <mxCell id="ET13ZjsiotVya5PtHg1d-84" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffeaa7;" parent="1" vertex="1">
           <mxGeometry x="180" y="1616.1599999999999" width="820" height="950" as="geometry" />
         </mxCell>
-        <mxCell id="ET13ZjsiotVya5PtHg1d-68" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#ffeaa7;" parent="1" vertex="1">
-          <mxGeometry x="1280" y="1180" width="650" height="1740" as="geometry" />
+        <mxCell id="ET13ZjsiotVya5PtHg1d-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="1180" width="650" height="1780" as="geometry" />
         </mxCell>
-        <mxCell id="ET13ZjsiotVya5PtHg1d-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffeaa7;" parent="1" vertex="1">
+        <mxCell id="ET13ZjsiotVya5PtHg1d-54" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="2260" y="1420" width="1230" height="1230" as="geometry" />
         </mxCell>
-        <mxCell id="ET13ZjsiotVya5PtHg1d-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffeaa7;" parent="1" vertex="1">
+        <mxCell id="ET13ZjsiotVya5PtHg1d-50" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="120" y="70" width="920" height="920" as="geometry" />
-        </mxCell>
-        <mxCell id="ET13ZjsiotVya5PtHg1d-48" value="" style="endArrow=none;html=1;exitX=0.707;exitY=0.409;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ET13ZjsiotVya5PtHg1d-40" target="ET13ZjsiotVya5PtHg1d-43" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2725" y="2066.16" as="sourcePoint" />
-            <mxPoint x="2935" y="1696.16" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2875" y="2091.16" />
-              <mxPoint x="2875" y="1810.16" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ET13ZjsiotVya5PtHg1d-49" value="" style="endArrow=none;html=1;strokeWidth=3;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.708;entryY=0.682;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="ET13ZjsiotVya5PtHg1d-42" target="ET13ZjsiotVya5PtHg1d-40" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2735" y="1956.16" as="sourcePoint" />
-            <mxPoint x="2675" y="2166.16" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2880" y="2121" />
-            </Array>
-          </mxGeometry>
         </mxCell>
         <mxCell id="ET13ZjsiotVya5PtHg1d-6" value="&lt;p&gt;&lt;font style=&quot;font-size: 20px&quot; face=&quot;Tahoma&quot;&gt;&lt;b&gt;AMPLIFICADOR DE DISTRIBUIÇÃO SATELITAL - ISDB T&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="1776.1599999999999" width="640" height="60" as="geometry" />
@@ -87,19 +68,19 @@
           <mxGeometry x="1370" y="2460" width="470" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ET13ZjsiotVya5PtHg1d-42" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="2780" y="2336.16" width="200" height="116.16" as="geometry" />
+          <mxGeometry x="3045" y="1797" width="200" height="116.16" as="geometry" />
         </mxCell>
-        <mxCell id="ET13ZjsiotVya5PtHg1d-53" value="&lt;font style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;ANTENÁRIO&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ET13ZjsiotVya5PtHg1d-53" value="&lt;font style=&quot;font-size: 34px&quot; face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;b&gt;HEADEND&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="475" y="100" width="230" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ET13ZjsiotVya5PtHg1d-56" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;RB - ANTENAS&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;IP LO0: 172.16.3.100&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2695" y="2456.16" width="370" height="100" as="geometry" />
+        <mxCell id="ET13ZjsiotVya5PtHg1d-56" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;RB - ANTENAS&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;IP LO0: 172.16.3.100&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2960" y="1697" width="370" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ET13ZjsiotVya5PtHg1d-57" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;RT - JUNIPER - MULTTV&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;IP: 177.91.232.37&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2410" y="1868.48" width="390" height="116.16" as="geometry" />
+        <mxCell id="ET13ZjsiotVya5PtHg1d-57" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;SW L3 - JUNIPER - MULTTV&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;IP: 177.91.232.37&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2954" y="2284.9999999999995" width="390" height="116.16" as="geometry" />
         </mxCell>
-        <mxCell id="ET13ZjsiotVya5PtHg1d-59" value="&lt;font face=&quot;Courier New&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;SW - HEWLETT PACKARD&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;IP: 100.198.0.253&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2385" y="2161.74" width="370" height="95" as="geometry" />
+        <mxCell id="ET13ZjsiotVya5PtHg1d-59" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;SW - HEWLETT PACKARD&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;font-size: 30px&quot;&gt;IP: 100.198.0.253&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2330" y="1951.16" width="370" height="95" as="geometry" />
         </mxCell>
         <mxCell id="ET13ZjsiotVya5PtHg1d-23" value="&lt;p style=&quot;font-size: 20px&quot;&gt;&lt;font face=&quot;Tahoma&quot;&gt;&lt;b&gt;IRD - CISCO D9824&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1370" y="1660" width="470" height="60" as="geometry" />
@@ -149,118 +130,13 @@
         <mxCell id="ET13ZjsiotVya5PtHg1d-88" value="&lt;font style=&quot;font-size: 67px&quot;&gt;&lt;b&gt;LAGO AZUL - BR 174 (KM 3)&amp;nbsp;&lt;br&gt;&lt;/b&gt;&lt;b&gt;MANAUS - AM&lt;br&gt;&lt;/b&gt;&lt;b&gt;-2.953006, -60.032522&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="3680" y="10" width="970" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-3" value="&lt;span style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;Routers and Switches&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="2680" y="1460" width="390" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-2" value="" style="endArrow=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="ET13ZjsiotVya5PtHg1d-26" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2030" y="2780" as="sourcePoint" />
-            <mxPoint x="2410" y="2120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2200" y="2825" />
-              <mxPoint x="2200" y="2120" />
-              <mxPoint x="2410" y="2120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-4" value="" style="endArrow=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.104;entryY=0.671;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" parent="1" source="ET13ZjsiotVya5PtHg1d-28" target="ET13ZjsiotVya5PtHg1d-40" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2020" y="2630" as="sourcePoint" />
-            <mxPoint x="2190" y="2060" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2160" y="2665" />
-              <mxPoint x="2160" y="2120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-5" value="" style="endArrow=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="ET13ZjsiotVya5PtHg1d-30" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2060" y="2400" as="sourcePoint" />
-            <mxPoint x="2410" y="2120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2120" y="2505" />
-              <mxPoint x="2120" y="2120" />
-              <mxPoint x="2410" y="2120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-6" value="" style="endArrow=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="ET13ZjsiotVya5PtHg1d-29" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2060" y="2400" as="sourcePoint" />
-            <mxPoint x="2420" y="2120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2080" y="2345" />
-              <mxPoint x="2080" y="2120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-7" value="" style="endArrow=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" target="ET13ZjsiotVya5PtHg1d-25" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2300" y="2120" as="sourcePoint" />
-            <mxPoint x="1950" y="2180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2300" y="2120" />
-              <mxPoint x="2040" y="2120" />
-              <mxPoint x="2040" y="2185" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-8" value="" style="endArrow=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.146;exitY=0.671;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" parent="1" source="ET13ZjsiotVya5PtHg1d-40" target="ET13ZjsiotVya5PtHg1d-24" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2200" y="2060" as="sourcePoint" />
-            <mxPoint x="1970" y="2020" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2040" y="2120" />
-              <mxPoint x="2040" y="2025" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-9" value="" style="endArrow=none;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;strokeWidth=3;" parent="1" source="ET13ZjsiotVya5PtHg1d-27" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2000" y="2080" as="sourcePoint" />
-            <mxPoint x="2420" y="2120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2080" y="1865" />
-              <mxPoint x="2080" y="2120" />
-              <mxPoint x="2420" y="2120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-10" value="" style="endArrow=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.146;exitY=0.671;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" parent="1" source="ET13ZjsiotVya5PtHg1d-40" target="ET13ZjsiotVya5PtHg1d-23" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2210" y="2040" as="sourcePoint" />
-            <mxPoint x="2250" y="1990" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2120" y="2120" />
-              <mxPoint x="2120" y="1705" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-11" value="" style="endArrow=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.104;exitY=0.671;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=3;" parent="1" source="ET13ZjsiotVya5PtHg1d-40" target="ET13ZjsiotVya5PtHg1d-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2210" y="1990" as="sourcePoint" />
-            <mxPoint x="2240" y="1750" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2160" y="2120" />
-              <mxPoint x="2160" y="1545" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-12" value="" style="endArrow=none;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;strokeWidth=3;" parent="1" target="ET13ZjsiotVya5PtHg1d-81" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2420" y="2120" as="sourcePoint" />
-            <mxPoint x="2030" y="1370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2420" y="2120" />
-              <mxPoint x="2200" y="2120" />
-              <mxPoint x="2200" y="1385" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="Bz9aQ9UGnHe_9XQev82R-3" value="&lt;span style=&quot;font-size: 34px&quot;&gt;&lt;b&gt;&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;Routers&lt;br&gt;and&lt;br&gt;Switches&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2680" y="1440" width="390" height="135" as="geometry" />
         </mxCell>
         <mxCell id="ET13ZjsiotVya5PtHg1d-40" value="" style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="2395" y="2046.1599999999999" width="240" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-15" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 34px&quot;&gt;Integrated Receiver Decoder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Bz9aQ9UGnHe_9XQev82R-15" value="&lt;font size=&quot;1&quot; face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;b style=&quot;font-size: 34px&quot;&gt;Integrated Receiver Decoder&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1421" y="1205" width="390" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Bz9aQ9UGnHe_9XQev82R-16" value="&lt;font style=&quot;font-size: 30px&quot; face=&quot;Lucida Console&quot;&gt;&lt;b&gt;1X3&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
@@ -371,17 +247,8 @@
             <mxPoint x="850.0000000000002" y="1304.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bz9aQ9UGnHe_9XQev82R-40" value="" style="endArrow=none;html=1;strokeWidth=3;entryX=0.88;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.554;exitY=0.114;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ET13ZjsiotVya5PtHg1d-43" target="ET13ZjsiotVya5PtHg1d-42" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2760" y="1330" as="sourcePoint" />
-            <mxPoint x="2650" y="2180" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="2960" y="1764" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ET13ZjsiotVya5PtHg1d-43" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="2505" y="1752.32" width="200" height="116.16" as="geometry" />
+          <mxGeometry x="2754" y="2285" width="200" height="116.16" as="geometry" />
         </mxCell>
         <mxCell id="2m0SFDpv0A1qZ56YtHxx-1" value="" style="shape=mxgraph.cisco.wireless.satellite_dish;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rotation=35;" parent="1" vertex="1">
           <mxGeometry x="250" y="480" width="160" height="130" as="geometry" />
@@ -392,29 +259,158 @@
         <mxCell id="2m0SFDpv0A1qZ56YtHxx-3" value="" style="shape=mxgraph.cisco.wireless.satellite_dish;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;rotation=35;" parent="1" vertex="1">
           <mxGeometry x="500" y="260" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="2m0SFDpv0A1qZ56YtHxx-5" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 01&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2m0SFDpv0A1qZ56YtHxx-5" value="&lt;font size=&quot;1&quot; face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 01&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="670" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2m0SFDpv0A1qZ56YtHxx-6" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 02&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2m0SFDpv0A1qZ56YtHxx-6" value="&lt;font size=&quot;1&quot; face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 02&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="450" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2m0SFDpv0A1qZ56YtHxx-7" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 06&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2m0SFDpv0A1qZ56YtHxx-7" value="&lt;font size=&quot;1&quot; face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 06&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="450" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2m0SFDpv0A1qZ56YtHxx-9" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 03&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2m0SFDpv0A1qZ56YtHxx-9" value="&lt;font size=&quot;1&quot; face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 03&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="250" y="230" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2m0SFDpv0A1qZ56YtHxx-10" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 04&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2m0SFDpv0A1qZ56YtHxx-10" value="&lt;font size=&quot;1&quot; face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 04&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="230" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2m0SFDpv0A1qZ56YtHxx-11" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 05&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2m0SFDpv0A1qZ56YtHxx-11" value="&lt;font size=&quot;1&quot; face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 05&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="740" y="230" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2m0SFDpv0A1qZ56YtHxx-12" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 07&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2m0SFDpv0A1qZ56YtHxx-12" value="&lt;font size=&quot;1&quot; face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;b style=&quot;font-size: 25px&quot;&gt;ANTENA 07&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="450" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nkdC748hagveC1eBvJPD-2" value="&lt;div style=&quot;text-align: center ; font-size: 34px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 34px&quot;&gt;Informações das Antenas&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 34px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;ANTENA 1 -&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Horizontal - MultTV&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Vertical - MultTV&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;A&lt;/b&gt;&lt;b&gt;NTENA 2 - 75 °W StarOne C3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Horizontal - Funcionando normalmente - Não está conectado em nenhum IRD&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Vertical - Funcionando normalmente&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;ANTENA 3 - 40.5 °W SES 6&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Horizontal -&amp;nbsp; Sem sinal de RF (Verificar problema no Cabo Coaxial ou LNBF)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Vertical - Funcionando com falhas&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;ANTENA 4 - 55.5 °W Intelsat 34&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Horizontal - Funcionando normalmente - Não está conectado em nenhum IRD&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Vertical - Funcionando normalmente - Não está conectado em nenhum IRD&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;ANTENA 5 - SEM SINAL RF&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Horizontal - Sem sinal de RF&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Vetical - Sem sinal de RF&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;ANTENA 6 - 65 °W StarOne C1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Horizontal - Funcionando normalmente&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Vertical - Funcionando normalmente - Não está conectado em nenhum IRD&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;ANTENA 7 - 70 °W StarOne C2&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Horizontal - Funcionando normalmente - OBS: equipamento não liga&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;Vertical - Funcionando normalmente&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1100" y="100" width="730" height="790" as="geometry" />
+        <mxCell id="nkdC748hagveC1eBvJPD-2" value="&lt;div style=&quot;text-align: center ; font-size: 34px&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 34px&quot;&gt;Informações das Antenas&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center ; font-size: 34px&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;b&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&amp;nbsp;ANTENA 1 - SES 6&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Horizontal - MultTV&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Vertical - MultTV&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 21px&quot;&gt;&lt;font style=&quot;font-size: 21px&quot;&gt;&lt;b&gt;&amp;nbsp;A&lt;/b&gt;&lt;b&gt;NTENA 2 - 75 °W StarOne C3&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Horizontal - Funcionando normalmente - Não está conectado em nenhum IRD&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Vertical - Funcionando normalmente&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;&amp;nbsp;ANTENA 3 - 40.5 °W SES 6&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Horizontal -&amp;nbsp; Funcionando com falhas&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Vertical - Funcionando com falhas&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;&amp;nbsp;ANTENA 4 - 55.5 °W Intelsat 34&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Horizontal - Funcionando normalmente - Não está conectado em nenhum IRD&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Vertical - Funcionando normalmente - Não está conectado em nenhum IRD&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;&amp;nbsp;ANTENA 5 - SEM SINAL RF&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Horizontal - Sem sinal de RF&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Vetical - Sem sinal de RF&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;&amp;nbsp;ANTENA 6 - 65 °W StarOne C1&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Horizontal - Funcionando normalmente&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Vertical - Funcionando normalmente - Não está conectado em nenhum IRD&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 21px&quot;&gt;&amp;nbsp;ANTENA 7 - 70 °W StarOne C2&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Horizontal - Funcionando normalmente - OBS: equipamento não liga&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;&amp;nbsp;Vertical - Funcionando normalmente&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontFamily=Roboto Mono;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BMono;shadow=0;glass=0;sketch=0;strokeWidth=1;arcSize=6;strokeColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1100" y="110" width="890" height="790" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-1" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=4;fillColor=none;strokeColor=#0000CC;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="1330" width="500" height="1570" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-4" value="" style="endArrow=classic;startArrow=none;html=1;strokeWidth=3;exitX=1;exitY=0.489;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#000099;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-6" target="ET13ZjsiotVya5PtHg1d-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1610" y="2050" as="sourcePoint" />
+            <mxPoint x="1660" y="2000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-6" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 26px&quot;&gt;PORT 1/24&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2050" y="2066.16" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-7" value="" style="endArrow=none;startArrow=classic;html=1;strokeWidth=3;strokeColor=#0000CC;" edge="1" parent="1" target="Vk63o5-KIld6q4QsPn-r-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1850" y="2100" as="sourcePoint" />
+            <mxPoint x="2395" y="2100.531603053435" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-8" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;strokeWidth=4;fillColor=none;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1340" y="1310" width="540" height="1610" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-10" value="" style="endArrow=classic;html=1;strokeWidth=3;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0000;startArrow=none;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-11" target="ET13ZjsiotVya5PtHg1d-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2100" y="2210" as="sourcePoint" />
+            <mxPoint x="2150" y="2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-11" value="&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 26px&quot;&gt;PORT 25/48&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2080" y="2210" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-13" value="" style="endArrow=none;html=1;strokeWidth=3;exitX=1;exitY=0.608;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#CC0000;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-8" target="Vk63o5-KIld6q4QsPn-r-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1880" y="2288.8799999999997" as="sourcePoint" />
+            <mxPoint x="2395" y="2153.9599999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-14" value="" style="endArrow=classic;html=1;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#CC0000;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-16" target="ET13ZjsiotVya5PtHg1d-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2198" y="2600" as="sourcePoint" />
+            <mxPoint x="2100" y="1975" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="2606" y="2343" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-16" value="&lt;font style=&quot;font-size: 26px&quot; face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;&lt;b&gt;IGMP Snopping&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="2527" y="2212" width="158" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-18" value="" style="endArrow=classic;startArrow=classic;html=1;strokeWidth=3;exitX=0.12;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.98;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#0000CC;" edge="1" parent="1" source="ET13ZjsiotVya5PtHg1d-42" target="ET13ZjsiotVya5PtHg1d-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2295" y="2030" as="sourcePoint" />
+            <mxPoint x="2345" y="1980" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-19" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2754" y="3044" width="200" height="116.16" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-20" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; font-size: 30px&quot;&gt;&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;SW L3 - HUAWEI s5720&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2724.88" y="3160.16" width="258.25" height="84.84" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-23" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;IGMP v2/PIM v2&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2736" y="2734" width="236" height="49.84" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-25" value="" style="endArrow=classic;html=1;strokeColor=#CC0000;strokeWidth=3;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-23" target="Vk63o5-KIld6q4QsPn-r-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2598" y="2603" as="sourcePoint" />
+            <mxPoint x="2648" y="2553" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-27" value="" style="endArrow=none;html=1;strokeColor=#CC0000;strokeWidth=3;entryX=0.87;entryY=0.74;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-16" target="ET13ZjsiotVya5PtHg1d-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2133" y="2463" as="sourcePoint" />
+            <mxPoint x="2183" y="2413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-28" value="" style="endArrow=none;html=1;strokeColor=#CC0000;strokeWidth=3;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-23" target="ET13ZjsiotVya5PtHg1d-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2133" y="2463" as="sourcePoint" />
+            <mxPoint x="2183" y="2413" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-29" value="" style="endArrow=classic;html=1;strokeColor=#CC0000;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-42" target="Vk63o5-KIld6q4QsPn-r-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2620" y="2730" as="sourcePoint" />
+            <mxPoint x="3765" y="3102" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-30" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="3800" y="3044" width="200" height="116.16" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-31" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;roboto mono&amp;#34; ; font-size: 30px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;SW L3 - HUAWEI s5720/s6720&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="2954" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-33" value="" style="shape=mxgraph.cisco.routers.router;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="2089" y="3044" width="200" height="116.16" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-35" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; font-size: 30px&quot;&gt;&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot;&gt;RT - Routerboard - CCR1036&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="2017.44" y="3160.16" width="343.12" height="82.84" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-37" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;IGMP v2/PIM v2/&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;DHCP/DNS/NTP/&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;Gateway Internet&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2406" y="3052.16" width="256" height="99.84" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-38" value="" style="endArrow=classic;html=1;strokeColor=#CC0000;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-37" target="Vk63o5-KIld6q4QsPn-r-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2370" y="2895" as="sourcePoint" />
+            <mxPoint x="2760" y="2890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-40" value="" style="endArrow=classic;html=1;strokeColor=#CC0000;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-37" target="Vk63o5-KIld6q4QsPn-r-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="2662" y="2898" as="sourcePoint" />
+            <mxPoint x="2304" y="3107.08" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-42" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;Roboto Mono&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Roboto+Mono&quot; style=&quot;font-size: 26px&quot;&gt;&lt;b&gt;IGMP Snopping&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3244" y="3077.16" width="211" height="49.84" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-43" value="" style="endArrow=none;html=1;strokeColor=#CC0000;strokeWidth=3;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-42" target="Vk63o5-KIld6q4QsPn-r-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3463" y="2933" as="sourcePoint" />
+            <mxPoint x="3513" y="2883" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk63o5-KIld6q4QsPn-r-44" value="" style="endArrow=classic;html=1;strokeColor=#CC0000;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Vk63o5-KIld6q4QsPn-r-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3463" y="2933" as="sourcePoint" />
+            <mxPoint x="3900" y="3403" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
